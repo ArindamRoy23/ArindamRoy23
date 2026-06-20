@@ -21,7 +21,7 @@ Senior Data Scientist & ML Engineer with 6+ years of experience building product
 `PyTorch` `TensorFlow` `Hugging Face` `LangChain` `Google ADK` `RAGAS` `BERTopic` `Scikit-learn`
 
 **LLM & Agents**
-`Fine-tuning` `RAG` `LightRAG` `MCP` `Multi-Agent Orchestration` `Vector DBs (Pinecone · Weaviate · Milvus)`
+`Fine-tuning` `RAG` `LightRAG` `MCP` `Multi-Agent Orchestration` `Vector DBs`
 
 **Data Engineering**
 `PySpark` `Airflow` `Snowflake` `Databricks` `BigQuery` `SQL` `MongoDB`
@@ -29,23 +29,11 @@ Senior Data Scientist & ML Engineer with 6+ years of experience building product
 **MLOps & Cloud**
 `MLflow` `Docker` `Kubernetes` `CI/CD` `GCP` `AWS` `Azure`
 
-**Visualization**
-`Tableau` `Power BI` `Plotly` `Matplotlib`
-
----
-
-## 🏆 Highlights
-
-- 🥉 **Kaggle Bronze Medal** — LLM-generated text detection competition
-- 🏆 **Cohort Hackathon Winner** — Basket analysis + tree-based model for retail strategy optimization
-- 🔧 **Open-Source Contributor** — Added metadata support to LightRAG (HK University), improving production usability
-
 ---
 
 ## 📚 Education
 
 - **M.Sc. Data Science & Business Analytics** — CentraleSupélec & ESSEC Business School
-- **B.Tech. Mechanical & Manufacturing Engineering** — Manipal Institute of Technology
 
 ---
 
@@ -61,6 +49,16 @@ A scalable knowledge graph construction system that serves as a robust knowledge
 - Designed to be modular, extensible, multi-tenant, and auto-maintained
 - Built with Python & Docker · GPL-3.0
 
+### 🎙️ [Dembrane ECHO](https://github.com/dembrane/echo) *(Contributor)*
+An open-source transcription, analysis, and reporting platform built for in-person multilingual conversations — purpose-built for real-world stakeholder engagement at scale.
+
+- Real-time transcription and sensemaking across hybrid, multilingual conversations (events, breakout rooms, async feedback)
+- LLM-powered chat and reporting on top of transcribed data
+- Graph-based RAG systems with knowledge graph integration for superior retrieval and context enrichment
+- Event-driven audio processing pipelines with robust scalability
+- Agentic workflows via MCP and Google ADK for complex NLP orchestration
+- Built with TypeScript · Python · Jinja 
+
 ---
 
 ## 📊 GitHub Stats
@@ -74,7 +72,7 @@ A scalable knowledge graph construction system that serves as a robust knowledge
 
 ## 🌐 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arindamroy23)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arindamroy23)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArindamRoy23)
 
